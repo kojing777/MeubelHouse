@@ -1,7 +1,7 @@
 import { Link, NavLink, Outlet } from "react-router-dom";
 import { assets } from "../../assets/assets";
 import Meubel from "../../assets/MeubelLogo.png";
-import { useAppContext } from "../../context/AppContext";
+import { useAppContext } from "../../Context/AppContext";
 import React, { useState } from "react";
 import toast from "react-hot-toast";
 import { FaBars, FaTimes } from "react-icons/fa";
