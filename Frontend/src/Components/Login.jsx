@@ -5,7 +5,7 @@ import axios from "axios";
 import { FiEye, FiEyeOff, FiLock, FiMail, FiUser } from "react-icons/fi";
 import { Link } from "react-router-dom";
 import logo from "../assets/MeubelLogo.png";
-import shop from "../assets/shop.JPG";
+import shop from "../assets/shop.jpg";
 import login from "../assets/login.jpeg";
 import { MdArrowForwardIos } from "react-icons/md";
 
