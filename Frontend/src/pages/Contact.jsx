@@ -10,7 +10,7 @@ import emailjs from "@emailjs/browser";
 import { toast } from "react-hot-toast";
 import { Link } from "react-router-dom";
 import logo from "../assets/MeubelLogo.png";
-import shop from "../assets/shop.JPG";
+import shop from "../assets/shop.jpg";
 import { FaClock } from "react-icons/fa";
 import { MdArrowForwardIos } from "react-icons/md";
 

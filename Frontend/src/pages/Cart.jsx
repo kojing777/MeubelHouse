@@ -5,7 +5,7 @@ import { useEffect } from "react";
 import toast from "react-hot-toast";
 import { FaLongArrowAltLeft } from "react-icons/fa";
 import logo from "../assets/MeubelLogo.png";
-import shop from "../assets/shop.JPG";
+import shop from "../assets/shop.jpg";
 import { Link } from "react-router-dom";
 import { MdArrowForwardIos } from "react-icons/md";
 
