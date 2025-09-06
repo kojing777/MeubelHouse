@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useAppContext } from "../../context/appContext";
+import { useAppContext } from "../../Context/AppContext";
 import toast from "react-hot-toast";
 import { FaUserShield } from "react-icons/fa";
 
