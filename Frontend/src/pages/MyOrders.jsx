@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useAppContext } from "../context/AppContext";
+import { useAppContext } from "../Context/AppContext";
 import toast from "react-hot-toast";
 import { FaMoneyCheckAlt, FaCalendarAlt, FaBoxOpen } from 'react-icons/fa';
 
