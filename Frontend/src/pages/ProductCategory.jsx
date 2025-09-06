@@ -5,7 +5,7 @@ import { categories } from '../assets/assets';
 import ProductCart from '../Components/ProductCart';
 import { FiFilter, FiX } from 'react-icons/fi';
 import { FaSort } from 'react-icons/fa';
-import shop from '../assets/shop.JPG';
+import shop from '../assets/shop.jpg';
 import logo from '../assets/MeubelLogo.png';
 import { MdArrowForwardIos } from 'react-icons/md';
 
