@@ -3,7 +3,7 @@ import { useAppContext } from "../Context/AppContext";
 import ProductCart from "../Components/ProductCart";
 import { Link } from "react-router-dom";
 import logo from "../assets/MeubelLogo.png";
-import shop from "../assets/shop.JPG";
+import shop from "../assets/shop.jpg";
 import { MdArrowForwardIos } from "react-icons/md";
 import { IoFilterSharp } from "react-icons/io5";
 import { BsFilterSquare } from "react-icons/bs";
