@@ -9,9 +9,6 @@ import { IoFilterSharp } from "react-icons/io5";
 import { BsFilterSquare } from "react-icons/bs";
 
 
-
-
-
 const AllProducts = () => {
   const { products, searchQuery } = useAppContext();
   const [filteredProducts, setFilteredProducts] = useState([]);
