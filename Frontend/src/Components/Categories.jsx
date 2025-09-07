@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import DiningTable from "../assets/DiningTable.png";
 import BedsMattresses from "../assets/BedsMattress.png";
-import SofasCouches from "../assets/SofaCouches.png";
+import SofasCouches from "../assets/sofaCouches.png";
 import cabinet from "../assets/cabinets.png";
 import OfficeFurniture from "../assets/OfficeFurnitures.png";
 import { useAppContext } from "../Context/AppContext";
