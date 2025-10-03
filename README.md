@@ -17,7 +17,7 @@ A **full-stack furniture e-commerce platform** with **modern UI, secure backend,
 
 ## 📸 Preview
 
-  <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757215916/Screenshot_2025-09-07_091455_k50kfz.png" alt="MeubelHouse Preview" width="80%">
+  <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757215916/Screenshot_2025-09-07_091455_k50kfz.png" alt="MeubelHouse Preview" width="">
   <br />
   
 ## 🌟 Features
