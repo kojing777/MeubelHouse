@@ -125,7 +125,7 @@ NODE_ENV=development
 SELLER_EMAIL=your_admin_email@gmail.com
 SELLER_PASSWORD=your_admin_password
 
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/meubelhouse
+MONGODB_URI=your_mongodb_uri
 
 CLOUDINARY_CLOUD_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_cloudinary_key
